@@ -1,0 +1,33 @@
+採点DOG (Digital Offline Grading)
+Copyright (c) 2026 三原博幸 (MIHARA Hiroyuki)
+
+本ソフトウェア(PDF.jsを除く)は、
+クリエイティブ・コモンズ 表示-非営利 4.0 国際 (CC BY-NC 4.0) ライセンスの
+もとで提供されます。
+https://creativecommons.org/licenses/by-nc/4.0/legalcode.ja
+
+■ 利用条件の概要
+・誰でも無料で使用・改変・再配布することができます。
+・販売や有料での配布など、営利目的での利用はできません。
+・再配布や改変の際は、原作者名(三原博幸)を表示し、
+  改変した場合は改変者名と改変した旨を明記してください。
+
+■ 免責
+本ソフトウェアは現状のまま提供され、作者は利用によって生じた
+いかなる損害についても責任を負いません。
+
+■ 同梱している第三者ソフトウェア
+PDF.js (Mozilla) は Apache License 2.0 のもとで提供されています。
+ライセンス全文は third_party/LICENSE-PDFjs.txt を参照してください。
+
+---
+
+Saiten DOG (Digital Offline Grading)
+Copyright (c) 2026 MIHARA Hiroyuki
+
+This software (excluding PDF.js) is licensed under the
+Creative Commons Attribution-NonCommercial 4.0 International License.
+https://creativecommons.org/licenses/by-nc/4.0/
+
+PDF.js is licensed under the Apache License 2.0.
+See third_party/LICENSE-PDFjs.txt.
